@@ -1,0 +1,27 @@
+{
+  "name": "bug_tracker",
+  "version": "1.0.0",
+  "description": "Group project for Database System Design class",
+  "main": "index.js",
+  "scripts": {
+    "test": "testrun"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghiaruoi/TCSS445Project.git"
+  },
+  "keywords": [
+    "fullstack",
+    "nodejs"
+  ],
+  "author": "Tony Le, Showmik Roy, Nicholas Ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nghiaruoi/TCSS445Project/issues"
+  },
+  "homepage": "https://github.com/nghiaruoi/TCSS445Project#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3"
+  }
+}
