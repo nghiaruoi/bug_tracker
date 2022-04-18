@@ -22,6 +22,10 @@
   "homepage": "https://github.com/nghiaruoi/TCSS445Project#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "mysql2": "^2.3.3"
+    "mysql2": "^2.3.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0",
+    "react-script": "^2.0.5"
   }
 }
